@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\revisãoStruct\bin\Debug\net7.0\revisãoStruct.exe
+C:\Users\Usuário\Desktop\revisãoStruct\bin\Debug\net7.0\revisãoStruct.deps.json
+C:\Users\Usuário\Desktop\revisãoStruct\bin\Debug\net7.0\revisãoStruct.runtimeconfig.json
+C:\Users\Usuário\Desktop\revisãoStruct\bin\Debug\net7.0\revisãoStruct.dll
+C:\Users\Usuário\Desktop\revisãoStruct\bin\Debug\net7.0\revisãoStruct.pdb
+C:\Users\Usuário\Desktop\revisãoStruct\obj\Debug\net7.0\revisãoStruct.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\revisãoStruct\obj\Debug\net7.0\revisãoStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\revisãoStruct\obj\Debug\net7.0\revisãoStruct.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\revisãoStruct\obj\Debug\net7.0\revisãoStruct.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\revisãoStruct\obj\Debug\net7.0\revisãoStruct.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\revisãoStruct\obj\Debug\net7.0\revisãoStruct.dll
+C:\Users\Usuário\Desktop\revisãoStruct\obj\Debug\net7.0\refint\revisãoStruct.dll
+C:\Users\Usuário\Desktop\revisãoStruct\obj\Debug\net7.0\revisãoStruct.pdb
+C:\Users\Usuário\Desktop\revisãoStruct\obj\Debug\net7.0\revisãoStruct.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\revisãoStruct\obj\Debug\net7.0\ref\revisãoStruct.dll
